@@ -9,5 +9,13 @@ Diversification and Functions across Plant and Animal Kingdoms,
 Cell Host and Microbe, 2015
 
 originally by Ruben Garrido-Oter
+
 garridoo@mpipz.mpg.de
+
+
+to reproduce the analysis, first download and extract the data from:
+
+http://bioinfo.mpipz.mpg.de/download/chommeta_data.zip
+
+and then run script.R
 
