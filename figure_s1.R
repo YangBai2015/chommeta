@@ -129,7 +129,7 @@ points$y <- -points$y
 
 cols <- rep("grey", length(levels(points$study)))
 cols[levels(points$study)=="Lundberg et al."] <- "red"
-cols[levels(points$study)=="Bulgarelli et al."] <- "brown"
+cols[levels(points$study)=="Schlaeppi et al."] <- "brown"
 cols[levels(points$study)=="Roeselers et al."] <- "yellow"
 cols[levels(points$study)=="Bolnick et al."] <- "green"
 cols[levels(points$study)=="David et al."] <- "blue"
